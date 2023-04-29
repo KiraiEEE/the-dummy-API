@@ -17,6 +17,8 @@ Here's a list of all the endpoints you can use:
  
 **Cool, right? I told you it was simple!**
 
+PS : the user interface looks stupid but it works xD
+
 
 To make it more simple just run the RUN_API.bat then RUN_APP.bat
 
