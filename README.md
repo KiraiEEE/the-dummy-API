@@ -1,6 +1,6 @@
 # My First Flask REST API!
 
-<img src="logo.png" />
+<img src="img.png" />
 
 Yo, what's up everyone! I just made my first Flask REST API in like 2 hours, so please don't expect anything too fancy or complicated from me just yet. I'm still learning, but I wanted to share this with you all because I'm really excited about it!
 
