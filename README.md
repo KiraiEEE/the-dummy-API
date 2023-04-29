@@ -11,6 +11,7 @@ Here's a list of all the endpoints you can use:
  <summary> POST /books: Add a new book to the collection</summary>
  <summary> PUT /books/<book_name>: Update a book's information</summary>
  <summary> DELETE /books/<book_name>: Delete a book from the collection</summary>
+ <br>
  
 **Cool, right? I told you it was simple!**
 
