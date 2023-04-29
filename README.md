@@ -16,4 +16,8 @@ Here's a list of all the endpoints you can use:
 **Cool, right? I told you it was simple!**
 
 
-**Thanks for checking out my API, and I hope you have a great day!**
+To make more simpler just run the RUN_API.bat then RUN_APP.bat
+
+
+
+**Thanks for checking out my API, and I hope you have a great day! Stay classy, stay cool and dont be a fool! (WestJett said) 😎🐱‍👤**
