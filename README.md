@@ -1,5 +1,7 @@
 # My First Flask REST API!
 
+<img src="logo.png" />
+
 Yo, what's up everyone! I just made my first Flask REST API in like 2 hours, so please don't expect anything too fancy or complicated from me just yet. I'm still learning, but I wanted to share this with you all because I'm really excited about it!
 
 So, what does my API do? Well, it's a simple API that lets you manage a collection of books. You can add new books, get all the books, get a specific book by name, update a book's information, or delete a book. It's all done using simple HTTP requests and JSON data, so it's really easy to use and understand.
