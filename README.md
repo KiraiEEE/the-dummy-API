@@ -15,4 +15,4 @@ Here's a list of all the endpoints you can use:
 **Cool, right? I told you it was simple!**
 
 
-Thanks for checking out my API, and I hope you have a great day!
+**Thanks for checking out my API, and I hope you have a great day!**
